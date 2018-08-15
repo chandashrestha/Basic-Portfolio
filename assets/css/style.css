@@ -8,6 +8,14 @@ header {
     border-color: #cccccc;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
+#everythingwrapper {
+    max-width: 960px;
+}
+img{
+    height: 200px;
+    max-width: 200px;
+    float: left
+}
 h2{
     color:#4aaaa5;
 }
