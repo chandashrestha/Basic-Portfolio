@@ -24,9 +24,11 @@ header {
     margin: 0 auto;
     padding: 0;
 }
+
 .stickyFooter {
     border-bottom: 1px solid #aaa;
 }
+
 .everythingwrapper {
     /* max-width: 960px; */
     padding-top: 50px;
