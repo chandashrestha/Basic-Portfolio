@@ -22,13 +22,15 @@ header {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     width: 960px;
     margin: 0 auto;
-    border-bottom: 1px solid #aaa;
     padding: 0;
 }
-
+.stickyFooter {
+    border-bottom: 1px solid #aaa;
+}
 .everythingwrapper {
     /* max-width: 960px; */
-    padding-top: 20px;
+    padding-top: 50px;
+    padding-bottom: 70px;
     min-height: 100vh;
     background-image: url(../images/leaves-pattern.png);
 }
