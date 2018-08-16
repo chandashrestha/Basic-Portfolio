@@ -16,6 +16,12 @@ img{
     max-width: 200px;
     float: left
 }
+.text {
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 200%;
+}
 h2{
     color:#4aaaa5;
 }
