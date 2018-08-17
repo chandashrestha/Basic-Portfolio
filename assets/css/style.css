@@ -43,6 +43,7 @@ header {
     background: white;
     border: solid 1px #aaa;
     padding: 20px;
+    font-family: 'Roboto', sans-serif;
 }
 
 #mainphoto {
