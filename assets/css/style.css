@@ -68,7 +68,7 @@ h2 {
 }
 
 p {
-    line-height: 3em;
+    line-height: 2em;
 }
 
 #myName {
@@ -114,4 +114,30 @@ footer {
 main content {
     background-color: #ffffff;
     border-color: #dddddd;
+}
+
+.banner {
+    z-index: 2;
+    background-color: #4aaaa5;
+    text-align: center;
+    position: relative;
+    bottom: -80%;
+}
+
+#hangman {
+    background-image: url('../images/pic1.jpg');
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+#girltower {
+    background-image: url('../images/pic2.jpg');
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+.portfolioPic {
+    margin: 10px;
 }
