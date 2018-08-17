@@ -44,6 +44,7 @@ header {
     border: solid 1px #aaa;
     padding: 20px;
     font-family: 'Roboto', sans-serif;
+    height: 600px;
 }
 
 #mainphoto {
@@ -109,6 +110,8 @@ footer {
     border-top: #4aaaa5 solid 8px;
     padding-top: 20px;
     font-size: 10px;
+    position: sticky;
+    bottom: 0;
 }
 
 main content {
@@ -133,6 +136,27 @@ main content {
 
 #girltower {
     background-image: url('../images/pic2.jpg');
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+#Crayola {
+    background-image: url('../images/pic3.jpg');
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+#Calendar {
+    background-image: url('../images/pic4.jpg');
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+#Highlighter {
+    background-image: url('../images/pic5.jpg');
     width: 200px;
     height: 200px;
     background-size: cover;
