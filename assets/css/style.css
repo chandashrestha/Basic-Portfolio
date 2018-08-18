@@ -120,48 +120,91 @@ main content {
 }
 
 .banner {
-    z-index: 2;
+    z-index: 2.5;
     background-color: #4aaaa5;
     text-align: center;
     position: relative;
-    bottom: -80%;
+    bottom: -75%;
+    color: white;
 }
 
 #hangman {
     background-image: url('../images/pic1.jpg');
     width: 200px;
-    height: 200px;
+    height: 150px;
     background-size: cover;
+    position: sticky;
 }
 
 #girltower {
     background-image: url('../images/pic2.jpg');
     width: 200px;
-    height: 200px;
+    height: 150px;
     background-size: cover;
+    position: sticky;
 }
 
 #Crayola {
     background-image: url('../images/pic3.jpg');
     width: 200px;
-    height: 200px;
+    height: 150px;
     background-size: cover;
+    position: sticky;
 }
 
 #Calendar {
     background-image: url('../images/pic4.jpg');
     width: 200px;
-    height: 200px;
+    height: 150px;
     background-size: cover;
+    position: sticky;
 }
 
 #Highlighter {
     background-image: url('../images/pic5.jpg');
     width: 200px;
-    height: 200px;
+    height: 150px;
     background-size: cover;
+    position: sticky;
 }
 
 .portfolioPic {
     margin: 10px;
+}
+
+#SubmitBtn {
+    background-color: #4aaaa5;
+    height: 35px;
+    width: 75px;
+}
+
+#msgbox {
+    height: 200px;
+    width: 900px;
+}
+
+#emailbox {
+    width: 900px;
+}
+
+#namebox {
+    width: 900px;
+}
+
+.line1 {
+    float: left;
+}
+
+.line2 {
+    float: left;
+}
+
+.contactcontent {
+    width: 700px;
+    margin: auto;
+    background: white;
+    border: solid 1px #aaa;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+    height: 700px;
 }
